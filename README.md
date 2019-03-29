@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿# Bienvenido desarrollador!
+=======
+# Bienvenido desarrollador!
+>>>>>>> master
 
 Junto al equipo de desarrolladores liberamos esta base para que puedan crear sus aplicaciones como BrannAR lo hace ;) 
 
@@ -12,6 +16,7 @@ base-app/
 │    │    ├── footer.php
 │    │    ├── head.php
 │    │    └── nav.php
+<<<<<<< HEAD
 │	 ├── vendor/
 │	 │    ├── css/
 │	 │    │    ├── adminlte.css
@@ -21,6 +26,17 @@ base-app/
 │	 │    └── js/
 │	 │         ├── adminlte.js
 │	 │         └── adminlte.min.js
+=======
+│	   ├── vendor/
+│	   │    ├── css/
+│	   │    │    ├── adminlte.css
+│	   │    │    ├── adminlte.css.map
+│	   │    │    ├── adminlte.min.css
+│	   │    │    └── estilos.css
+│	   │    └── js/
+│	   │         ├── adminlte.js
+│	   │         └── adminlte.min.js
+>>>>>>> master
 │    ├── index.php
 │    └── registro.php
 ├── php/
@@ -29,6 +45,7 @@ base-app/
 │    └── nav.php
 ├── vendor/
 │    ├── css/
+<<<<<<< HEAD
 │	 │    ├── bootstrap.css
 │	 │    ├── bootstrap.css.map
 │	 │    ├── bootstrap.min.css
@@ -44,6 +61,23 @@ base-app/
 │	 │    ├── glyphicons-halflings-regular.woff
 │	 │    └── glyphicons-halflings-regular.woff2
 │	 └── js/
+=======
+│	   │    ├── bootstrap.css
+│	   │    ├── bootstrap.css.map
+│	   │    ├── bootstrap.min.css
+│	   │    ├── bootstrap.min.css.map
+│	   │    ├── bootstrap-theme.css
+│	   │    ├── bootstrap-theme.css.map
+│	   │    ├── bootstrap-theme.min.css.map
+│	   │    └── estilos.css
+│	   ├── fonts/
+│	   │    ├── glyphicons-halflings-regular.eot
+│	   │    ├── glyphicons-halflings-regular.svg
+│	   │    ├── glyphicons-halflings-regular.ttf
+│	   │    ├── glyphicons-halflings-regular.woff
+│	   │    └── glyphicons-halflings-regular.woff2
+│	   └── js/
+>>>>>>> master
 │	      ├── bootstrap.js
 │	      ├── bootstrap.min.js
 │	      └── npm.js
@@ -62,4 +96,7 @@ base-app/
 
 * Elias Gonzalo Astrada (Front-end)
 *  Alan David Moyano (Back-end)
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
